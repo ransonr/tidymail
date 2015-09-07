@@ -9,3 +9,4 @@ This script takes the simplest possible approach to guessing which folders an em
 ## To Do
 1. This currently only works on 100 messages at a time. If there are more than 100 messages in your inbox you can simply run this multiple times for now. Getting this to work for all messages is easy to do but hasn't been implemented yet.
 2. More intelligent label suggestions. Many emails will just be moved to Uncategorized but there is other information that could be incorporated (subject, keywords, etc..)
+3. Add command line arguments for passing in the number of days of inbox messages to keep.
